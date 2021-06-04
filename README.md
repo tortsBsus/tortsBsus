@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tortsBsus
 - 👀 I’m interested in Cybersecurity, Data Science, natural language processing
 - 🌱 I’m currently learning Algorithms, DBMS
-- 💞️ I’m looking to collaborate on open source projects on 
 - 📫 How to reach me Email meganraj251@gmail.com
                      Instagram @viridescent251
 
