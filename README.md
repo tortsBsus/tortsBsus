@@ -7,6 +7,7 @@
 <p align="left">
   
 - *Substitution_Cipher*: Implementation of Substitution Cipher in Java using HashMap and Files
+- *I_Capitaliser* : Java program to capitalize I in the entered text
 - All you need to know : BTS
 - Penpal with Me
 - Cipher it
@@ -14,7 +15,6 @@
 - StudyFund
 - Ovarian Cancer Prediction
 - Alien Votes
-- I_Capitaliser
 
 </p>
 
