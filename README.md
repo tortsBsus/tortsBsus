@@ -6,16 +6,18 @@
 <h3 align="left">Repositories</h3>
 <p align="left">
   
-- *Clique - Shop With Friends* : WatchParty but for Shopping
+- *Alien Votes* : A web 3 application to cast a vote and send messages. Deployed on Rinkeby Testnet
+- *Clique - Shop With Friends* : WatchParty but for Shopping on Android
+- *Cipher it* : A Java based apllication which encrypts and decrypts file and text input using the Caesar, Substitution or DES algorithms
+- *Ovarian Cancer Prediction* : Machine Learning models used to predict ovarian cancer using the given dataset
 - *StudyFund* : A Java application to simulate how StudyFund software would work
 - *Substitution_Cipher*: Implementation of Substitution Cipher in Java using HashMap and Files
 - *I_Capitaliser* : Java program to capitalize I in the entered text
+
 - All you need to know : BTS
 - Penpal with Me
-- Cipher it
 
-- Ovarian Cancer Prediction
-- Alien Votes
+
 
 </p>
 
