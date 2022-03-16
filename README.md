@@ -9,13 +9,15 @@
 - *Alien Votes* : A web 3 application to cast a vote and send messages. Deployed on Rinkeby Testnet
 - *Clique - Shop With Friends* : WatchParty but for Shopping on Android
 - *Cipher it* : A Java based apllication which encrypts and decrypts file and text input using the Caesar, Substitution or DES algorithms
+- *Penpal with Me* : Penpal-with-Me is a Web Application that allows users to match with a complete Stranger on the internet solely based on similar interests. It aims at creating healthy relationships among users!
 - *Ovarian Cancer Prediction* : Machine Learning models used to predict ovarian cancer using the given dataset
 - *StudyFund* : A Java application to simulate how StudyFund software would work
+- *All you need to know : BTS* : A web application that uses HTML, CSS, Javascript, PHP and MySQL to display information
 - *Substitution_Cipher*: Implementation of Substitution Cipher in Java using HashMap and Files
 - *I_Capitaliser* : Java program to capitalize I in the entered text
 
-- All you need to know : BTS
-- Penpal with Me
+
+
 
 
 
