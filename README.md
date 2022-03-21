@@ -6,7 +6,8 @@
 <h3 align="left">Repositories</h3>
 <p align="left">
   
-  - <h4><a href ="https://github.com/tortsBsus/Alien-Votes-Web3">Alien Votes</a></h4> A web 3 application to cast a vote and send messages. Deployed on Rinkeby Testnet
+- <h4><a href ="https://github.com/tortsBsus/DSA-Journey">DSA Journey</a></h4> All my Leetcode and GeeksForGeeks Submissions
+- <h4><a href ="https://github.com/tortsBsus/Alien-Votes-Web3">Alien Votes</a></h4> A web 3 application to cast a vote and send messages. Deployed on Rinkeby Testnet
 - <h4><a href ="https://github.com/tortsBsus/Clique-ShopWithFriends">Clique - Shop With Friends</a></h4> WatchParty but for Shopping on Android
 - <h4><a href ="https://github.com/tortsBsus/Cipher-It">Cipher it</a></h4> A Java based apllication which encrypts and decrypts file and text input using the Caesar, Substitution or DES algorithms
 - <h4><a href ="https://github.com/tortsBsus/Penpal-with-Me">Penpal with Me</a></h4> Penpal-with-Me is a Web Application that allows users to match with a complete Stranger on the internet solely based on similar interests. It aims at creating healthy relationships among users!
@@ -15,7 +16,7 @@
 - <h4><a href ="https://github.com/tortsBsus/All-You-Need-To-Know-BTS">All you need to know : BTS</a></h4> A web application that uses HTML, CSS, Javascript, PHP and MySQL to display information
 - <h4><a href ="https://github.com/tortsBsus/Substitution_Cipher">Substitution_Cipher</a></h4> Implementation of Substitution Cipher in Java using HashMap and Files
 - <h4><a href ="https://github.com/tortsBsus/I_Capitalizer">I_Capitaliser</a></h4> Java program to capitalize I in the entered text
-- <h4><a href ="https://github.com/tortsBsus/DSA-Journey">DSA Journey</a></h4> All my Leetcode and GeeksForGeeks Submissions
+
 
 
 
