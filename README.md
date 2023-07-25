@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meghana Rathanraj</h1>
-<h3 align="center">Final Year Student at BMSCE actively looking for Full Time roles!</h3>
+<h3 align="center">A Full Stack Developer actively looking for Full Time roles!</h3>
 
 - 📫 How to reach me **meganraj251@gmail.com**
 
