@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghana Rathanraj</h1>
 <h3 align="center">A Full Stack Developer actively looking for Full Time roles!</h3>
 
-- 📫 How to reach me **meganraj251@gmail.com**
+- 📫 How to reach me **meghanarathanraj@gmail.com**
 
 <h3 align="left">Repositories</h3>
 <p align="left">
