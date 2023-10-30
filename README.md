@@ -5,7 +5,9 @@
 
 <h3 align="left">Repositories</h3>
 <p align="left">
-  
+- <h4><a href ="https://github.com/tortsBsus/Capstone">Lumos : A Pedestrian Navigation Application</a></h4> A cross platform mobile application that generates the safest route between the source and destination based on the street light density of the streets. Created as the Capstone project for BE degree 
+- <h4><a href ="https://github.com/tortsBsus/comment-cleanser">Comment Cleanser</a></h4> A web app to clean up your comment sections using just the link of the youtube video.
+- <h4><a href ="https://github.com/tortsBsus/Claritable">Claritable </a></h4> A web3 project that empowers users to make cryptocurrency donations via a MetaMask wallet and gives you a breakdown of where the charities used each donation.
 - <h4><a href ="https://github.com/tortsBsus/DSA-Journey">DSA Journey</a></h4> All my Leetcode and GeeksForGeeks Submissions
 - <h4><a href ="https://github.com/tortsBsus/Alien-Votes-Web3">Alien Votes</a></h4> A web 3 application to cast a vote and send messages. Deployed on Rinkeby Testnet
 - <h4><a href ="https://github.com/tortsBsus/Clique-ShopWithFriends">Clique - Shop With Friends</a></h4> WatchParty but for Shopping on Android
